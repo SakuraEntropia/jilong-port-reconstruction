@@ -1,0 +1,9 @@
+00:01.044  blend            | Read blend: "/Users/faputa/Documents/Jilong_Port_Reconstruction/checkpoints/02_detailed.blend"
+CYCLES_DEVICES [('Apple M5', 'CPU', False), ('Apple M5 (GPU - 10 cores)', 'METAL', True)]
+00:36.436  render           | Saved: '/Users/faputa/Documents/Jilong_Port_Reconstruction/renders/preview_front.png'
+RENDER_FINISHED {'view': 'preview_front', 'seconds': 34.84, 'width': 960, 'height': 640, 'samples': 24}
+01:09.594  render           | Saved: '/Users/faputa/Documents/Jilong_Port_Reconstruction/renders/preview_rear.png'
+RENDER_FINISHED {'view': 'preview_rear', 'seconds': 33.16, 'width': 960, 'height': 640, 'samples': 24}
+Blender 5.2.0 Alpha (hash aba09c21dbc6 built 2026-05-23 01:51:33)
+
+Blender quit

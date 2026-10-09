@@ -1,0 +1,115 @@
+{
+  "blend": "/Users/faputa/Documents/Jilong_Port_Reconstruction/Jilong_Port_2019.blend",
+  "blender_version": "5.2.0 Alpha",
+  "objects": 6160,
+  "mesh_objects": 6142,
+  "vertices_base_meshes": 686295,
+  "faces_base_meshes": 765123,
+  "unique_meshes": 426,
+  "PBR_materials": 44,
+  "cameras": [
+    "CAM_01_Front_reference",
+    "CAM_02_Three_quarter",
+    "CAM_03_Rear_inspection",
+    "CAM_04_Portal_detail",
+    "CAM_05_Site_overview"
+  ],
+  "fonts": [
+    {
+      "name": "Bfont Regular",
+      "packed": false
+    },
+    {
+      "name": "Hiragino Sans GB W3",
+      "packed": true
+    },
+    {
+      "name": "Kailasa Regular",
+      "packed": true
+    }
+  ],
+  "road_ray": {
+    "hit": false,
+    "object": null,
+    "location": null
+  },
+  "lane_rays": [
+    {
+      "x": -4,
+      "hit": false,
+      "object": null,
+      "location": null
+    },
+    {
+      "x": -2,
+      "hit": false,
+      "object": null,
+      "location": null
+    },
+    {
+      "x": 0,
+      "hit": false,
+      "object": null,
+      "location": null
+    },
+    {
+      "x": 2,
+      "hit": false,
+      "object": null,
+      "location": null
+    },
+    {
+      "x": 4,
+      "hit": false,
+      "object": null,
+      "location": null
+    }
+  ],
+  "upper_ray": {
+    "hit": true,
+    "object": "Stepped granite cornice.033",
+    "location": [
+      0.0,
+      5.159999370574951,
+      13.800000190734863
+    ]
+  },
+  "inscription_width": 17.299999237060547,
+  "checks": {
+    "substantial_real_mesh": true,
+    "road_passage_is_open": true,
+    "five_lane_rays_are_open": true,
+    "signage_clear_of_white_plaques": true,
+    "nested_elevated_facade_exists": true,
+    "multiple_cameras": true,
+    "PBR_materials": true,
+    "fonts_packed": true,
+    "research_embedded": true,
+    "cycles_renderable": true,
+    "no_external_image_dependency": true
+  },
+  "renders": [
+    {
+      "name": "01_hero_daylight.png",
+      "width": 2200,
+      "height": 1467,
+      "file_bytes": 4061137,
+      "pixel_range": 0.6492251056298614
+    },
+    {
+      "name": "02_oblique_daylight.png",
+      "width": 1800,
+      "height": 1200,
+      "file_bytes": 2715763,
+      "pixel_range": 0.5629992268323898
+    },
+    {
+      "name": "03_rear_daylight.png",
+      "width": 1800,
+      "height": 1200,
+      "file_bytes": 2118910,
+      "pixel_range": 0.772434574984014
+    }
+  ],
+  "passed": true
+}

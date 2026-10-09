@@ -1,0 +1,16 @@
+[
+  {
+    "view": "preview_front",
+    "seconds": 34.84,
+    "width": 960,
+    "height": 640,
+    "samples": 24
+  },
+  {
+    "view": "preview_rear",
+    "seconds": 33.16,
+    "width": 960,
+    "height": 640,
+    "samples": 24
+  }
+]

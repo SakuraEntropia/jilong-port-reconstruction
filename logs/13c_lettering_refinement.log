@@ -1,0 +1,14 @@
+00:01.840  blend            | Read blend: "/Users/faputa/Documents/Jilong_Port_Reconstruction/Jilong_Port_2019.blend"
+/Users/faputa/Documents/Jilong_Port_Reconstruction/scripts/refine_inscription.py:31: DeprecationWarning: 'Scene.use_nodes' is expected to be removed in Blender 6.0
+  scene.use_nodes = True
+00:53.669  render           | Saved: '/Users/faputa/Documents/Jilong_Port_Reconstruction/renders/01_hero_daylight.png'
+Info: Saved as "Jilong_Port_2019.blend"
+LETTERING_REGION_FINISHED {'view': '01_hero_daylight', 'seconds': 49.72, 'border': (0.34495978247035636, 0.6526885758746754, 0.6234698681987381, 0.7010141820751572), 'width': 2200, 'height': 1467, 'samples': 128, 'method': 'Blender 3D region re-render over original full Cycles frame'}
+/Users/faputa/Documents/Jilong_Port_Reconstruction/scripts/refine_inscription.py:110: DeprecationWarning: 'Scene.use_nodes' is expected to be removed in Blender 6.0
+  scene.use_nodes = False
+01:25.085  render           | Saved: '/Users/faputa/Documents/Jilong_Port_Reconstruction/renders/02_oblique_daylight.png'
+LETTERING_REGION_FINISHED {'view': '02_oblique_daylight', 'seconds': 31.29, 'border': (0.34754754503568014, 0.6177327791849773, 0.6068488121032715, 0.7231034278869629), 'width': 1800, 'height': 1200, 'samples': 96, 'method': 'Blender 3D region re-render over original full Cycles frame'}
+Info: Saved as "Jilong_Port_2019.blend"
+Blender 5.2.0 Alpha (hash aba09c21dbc6 built 2026-05-23 01:51:33)
+
+Blender quit

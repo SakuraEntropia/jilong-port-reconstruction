@@ -1,0 +1,64 @@
+00:02.210  blend            | Read blend: "/Users/faputa/Documents/Jilong_Port_Reconstruction/Jilong_Port_2019.blend"
+/Users/faputa/Documents/Jilong_Port_Reconstruction/scripts/validate_scene.py:13: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  node_mats=[m for m in bpy.data.materials if m.use_nodes and any(n.type=='BSDF_PRINCIPLED' for n in m.node_tree.nodes)]
+{
+  "blend": "/Users/faputa/Documents/Jilong_Port_Reconstruction/Jilong_Port_2019.blend",
+  "blender_version": "5.2.0 Alpha",
+  "objects": 6160,
+  "mesh_objects": 6142,
+  "vertices_base_meshes": 686295,
+  "faces_base_meshes": 765123,
+  "unique_meshes": 426,
+  "PBR_materials": 44,
+  "cameras": [
+    "CAM_01_Front_reference",
+    "CAM_02_Three_quarter",
+    "CAM_03_Rear_inspection",
+    "CAM_04_Portal_detail",
+    "CAM_05_Site_overview"
+  ],
+  "fonts": [
+    {
+      "name": "Bfont Regular",
+      "packed": false
+    },
+    {
+      "name": "Hiragino Sans GB W3",
+      "packed": true
+    },
+    {
+      "name": "Kailasa Regular",
+      "packed": true
+    }
+  ],
+  "road_ray": {
+    "hit": false,
+    "object": null,
+    "location": null
+  },
+  "upper_ray": {
+    "hit": true,
+    "object": "Stepped granite cornice.033",
+    "location": [
+      0.0,
+      5.159999370574951,
+      13.800000190734863
+    ]
+  },
+  "checks": {
+    "substantial_real_mesh": true,
+    "road_passage_is_open": true,
+    "nested_elevated_facade_exists": true,
+    "multiple_cameras": true,
+    "PBR_materials": true,
+    "fonts_packed": true,
+    "research_embedded": true,
+    "cycles_renderable": true,
+    "no_external_image_dependency": true
+  },
+  "renders": [],
+  "passed": true
+}
+Blender 5.2.0 Alpha (hash aba09c21dbc6 built 2026-05-23 01:51:33)
+
+Blender quit

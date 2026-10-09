@@ -1,0 +1,12 @@
+00:00.986  blend            | Read blend: "/Users/faputa/Documents/Jilong_Port_Reconstruction/checkpoints/02_detailed.blend"
+CYCLES_DEVICES [('Apple M5', 'CPU', False), ('Apple M5 (GPU - 10 cores)', 'METAL', True)]
+12:12.849  render           | Saved: '/Users/faputa/Documents/Jilong_Port_Reconstruction/renders/01_hero_daylight.png'
+Info: No new files have been packed
+Info: Saved as "Jilong_Port_2019.blend"
+RENDER_FINISHED {'view': '01_hero_daylight', 'seconds': 730.99, 'width': 2200, 'height': 1467, 'samples': 128}
+19:51.900  render           | Saved: '/Users/faputa/Documents/Jilong_Port_Reconstruction/renders/02_oblique_daylight.png'
+RENDER_FINISHED {'view': '02_oblique_daylight', 'seconds': 459.04, 'width': 1800, 'height': 1200, 'samples': 96}
+25:53.270  render           | Saved: '/Users/faputa/Documents/Jilong_Port_Reconstruction/renders/03_rear_daylight.png'
+RENDER_FINISHED {'view': '03_rear_daylight', 'seconds': 361.37, 'width': 1800, 'height': 1200, 'samples': 96}
+35:05.024  render           | Saved: '/Users/faputa/Documents/Jilong_Port_Reconstruction/renders/04_portal_detail.png'
+RENDER_FINISHED {'view': '04_portal_detail', 'seconds': 551.75, 'width': 1800, 'height': 1200, 'samples': 96}

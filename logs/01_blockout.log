@@ -1,0 +1,6 @@
+/Users/faputa/Documents/Jilong_Port_Reconstruction/scripts/build_scene.py:35: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world=bpy.data.worlds.new('Soft Himalayan daylight');world.use_nodes=True;scene.world=world
+CYCLES_DEVICES [('Apple M5', 'CPU', False), ('Apple M5 (GPU - 10 cores)', 'METAL', True)]
+Info: No new files have been packed
+Info: Saved as "01_blockout.blend"
+BUILD_SAVED /Users/faputa/Documents/Jilong_Port_Reconstruction/checkpoints/01_blockout.blend 146 objects

@@ -1,0 +1,30 @@
+[
+  {
+    "view": "01_hero_daylight",
+    "seconds": 49.72,
+    "border": [
+      0.34495978247035636,
+      0.6526885758746754,
+      0.6234698681987381,
+      0.7010141820751572
+    ],
+    "width": 2200,
+    "height": 1467,
+    "samples": 128,
+    "method": "Blender 3D region re-render over original full Cycles frame"
+  },
+  {
+    "view": "02_oblique_daylight",
+    "seconds": 31.29,
+    "border": [
+      0.34754754503568014,
+      0.6177327791849773,
+      0.6068488121032715,
+      0.7231034278869629
+    ],
+    "width": 1800,
+    "height": 1200,
+    "samples": 96,
+    "method": "Blender 3D region re-render over original full Cycles frame"
+  }
+]

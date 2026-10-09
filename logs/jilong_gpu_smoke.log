@@ -1,0 +1,3 @@
+00:01.625  blend            | Read blend: "/Users/faputa/Documents/Jilong_Port_Reconstruction/Jilong_Port_2019.blend"
+GPU_SMOKE_DEVICES [('Apple M5', 'CPU', False), ('Apple M5 (GPU - 10 cores)', 'METAL', True)]
+GPU_SMOKE_BEGIN 2026-10-09T22:11:10 GPU CAM_01_Front_reference 320 213 8

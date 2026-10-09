@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Blender auto-backups (regenerated on save)
+*.blend1
+
+# Python caches
+__pycache__/
+*.py[cod]

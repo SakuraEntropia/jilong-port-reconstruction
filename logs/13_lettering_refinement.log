@@ -1,0 +1,17 @@
+00:01.736  blend            | Read blend: "/Users/faputa/Documents/Jilong_Port_Reconstruction/Jilong_Port_2019.blend"
+/Users/faputa/Documents/Jilong_Port_Reconstruction/scripts/refine_inscription.py:31: DeprecationWarning: 'Scene.use_nodes' is expected to be removed in Blender 6.0
+  scene.use_nodes = True
+Traceback (most recent call last):
+  File "/Users/faputa/Documents/Jilong_Port_Reconstruction/scripts/refine_inscription.py", line 121, in <module>
+    run(options.views, options.save_only)
+    ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/faputa/Documents/Jilong_Port_Reconstruction/scripts/refine_inscription.py", line 89, in run
+    tree = make_compositor(scene, background)
+  File "/Users/faputa/Documents/Jilong_Port_Reconstruction/scripts/refine_inscription.py", line 45, in make_compositor
+    over.inputs[0].default_value = 1.0
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: bpy_struct: item.attr = val:
+Info: Saved as "Jilong_Port_2019.blend"
+Blender 5.2.0 Alpha (hash aba09c21dbc6 built 2026-05-23 01:51:33)
+
+Blender quit
